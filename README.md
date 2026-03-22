@@ -2,6 +2,7 @@ Hey! This is my personal portfolio website built to showcase my work, skills, an
 This repository contains a personal portfolio website built using pure HTML and CSS.
 No frameworks or libraries were used — the goal was to understand layout, responsiveness, and UI design from the ground up.
 The HTML file is divided into clear sections using semantic structure and IDs for navigation.
+
 HTML Structure
 1. For Navigation Bar Fixed at the top using CSS,Contains anchor links etc,Enables smooth scrolling between sections.
 2. For Hero Section,Intro section with name, role, and buttons,Uses a flexbox layout to split. Left - Text content Right - Profile image, Includes stats and call-to-action buttons.
