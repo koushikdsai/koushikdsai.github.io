@@ -3,9 +3,10 @@ This repository contains a personal portfolio website built using pure HTML and 
 No frameworks or libraries were used — the goal was to understand layout, responsiveness, and UI design from the ground up.
 The HTML file is divided into clear sections using semantic structure and IDs for navigation.
 
-Website Live Demo:
 
+Website Live Demo:
 https://koushikdsai.github.io/
+
 
 HTML Structure
 1. For Navigation Bar Fixed at the top using CSS,Contains anchor links etc,Enables smooth scrolling between sections.
