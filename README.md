@@ -4,6 +4,7 @@ No frameworks or libraries were used — the goal was to understand layout, resp
 The HTML file is divided into clear sections using semantic structure and IDs for navigation.
 
 Website Live Demo:
+
 https://koushikdsai.github.io/
 
 HTML Structure
