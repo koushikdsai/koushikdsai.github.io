@@ -1,4 +1,4 @@
-Hey! This is my personal portfolio website built to showcase my work, skills, and journey as a B.Tech student in Artificial Intelligence & Data Science.
+Hey! This is my portfolio website built to showcase my work, skills, and journey as a B.Tech student in Artificial Intelligence & Data Science.
 This repository contains a personal portfolio website built using pure HTML and CSS.
 No frameworks or libraries were used — the goal was to understand layout, responsiveness, and UI design from the ground up.
 The HTML file is divided into clear sections using semantic structure and IDs for navigation.
